@@ -1,0 +1,39 @@
+Paleta de cores — The Look
+Azul: #007BFF
+Verde: #22B573
+Laranja: #FF7D33
+Azul escuro: #1A2540
+Cinza claro: #EAEAEA
+
+Paleta refinada — The Look (versão tech/produto)
+🔵 Cor principal (ajustada)
+Primary Blue 500: #2563EB
+👉 Mais moderno que o azul anterior, menos “genérico” e mais alinhado com SaaS (Stripe, Linear vibes)
+🔷 Escala da cor principal (para gráficos e UI)
+
+Use isso para séries, barras, linhas, estados de hover etc:
+
+Blue 700 (forte): #1E40AF
+Blue 600: #1D4ED8
+Blue 500 (principal): #2563EB
+Blue 400: #3B82F6
+Blue 300: #60A5FA
+Blue 200: #93C5FD
+Blue 100 (leve): #DBEAFE
+
+💡 Regra prática:
+
+Destaque principal → 500
+Comparação secundária → 400 / 300
+Fundo ou área → 100
+🟢 Verde (performance)
+Green 500: #22C55E
+Green 300: #86EFAC
+🟠 Laranja (atenção / oportunidade)
+Orange 500: #F97316
+Orange 300: #FDBA74
+⚫ Neutros (interface)
+Dark (text/headline): #0F172A
+Gray 600 (texto secundário): #475569
+Gray 300 (bordas): #CBD5E1
+Background: #F8FAFC
