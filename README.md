@@ -178,6 +178,10 @@ sql/02_gold/fact_order_items.sql
 
 sql/03_analysis/vw_sales_analysis.sql
 ```
+> ⚠️ Atenção — BigQuery Sandbox
+> As tabelas expiram automaticamente em 60 dias no plano Sandbox.
+> Se o dashboard do Looker Studio parar de carregar, basta reexecutar
+> as queries na ordem acima para recriar o ambiente completo.
 
 **3. Validar o resultado**
 ```sql
